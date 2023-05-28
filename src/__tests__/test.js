@@ -1,4 +1,4 @@
-import specialAttacks from '../sort';
+import specialAttacks from '../specialAttacks';
 
 test('special attacks', () => {
   const character = {
